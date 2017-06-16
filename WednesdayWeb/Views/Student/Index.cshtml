@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WednesdayWeb.Models.Student>
+@{
+    ViewBag.Title = "Student List";
+}
+
+<h2>Our Students</h2>
+
+<p>
+    <ul>
+        @foreach (var s in Model)
+        {
+            <li>@Html.DisplayFor(n => s.Name)</li>
+        }
+    </ul>
+</p>
+
+<table>
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.Name)</th>
+        <th>@Html.DisplayNameFor(model => model.GPA)</th>
+
+    </tr>
+
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(n => s.Id)</td>
+            <td>@Html.DisplayFor(n => s.Name)</td>
+            <td>@Html.DisplayFor(n => s.GPA)</td>
+        </tr>
+    }
+</table>

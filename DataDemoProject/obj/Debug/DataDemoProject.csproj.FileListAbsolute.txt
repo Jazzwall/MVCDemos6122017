@@ -1,0 +1,13 @@
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\bin\Debug\DataDemoProject.exe.config
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\bin\Debug\DataDemoProject.exe
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\bin\Debug\DataDemoProject.pdb
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\bin\Debug\EntityFramework.dll
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\bin\Debug\EntityFramework.xml
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\obj\Debug\DataDemoProject.csprojResolveAssemblyReference.cache
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\obj\Debug\DataDemoProject.exe
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\obj\Debug\DataDemoProject.pdb
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\obj\Debug\DataDemoProject.Migrations.InitialCreate.resources
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\obj\Debug\DataDemoProject.csproj.GenerateResource.Cache
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\DataDemoProject\obj\Debug\DataDemoProject.Migrations.AddBlogUrl.resources

@@ -1,0 +1,10 @@
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\bin\Debug\AWConsoleApp.exe.config
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\bin\Debug\AWConsoleApp.exe
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\bin\Debug\AWConsoleApp.pdb
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\bin\Debug\EntityFramework.dll
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\bin\Debug\EntityFramework.xml
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\obj\Debug\AWConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\obj\Debug\AWConsoleApp.exe
+c:\users\isinc\documents\visual studio 2015\Projects\DemoSolution\AWConsoleApp\obj\Debug\AWConsoleApp.pdb
